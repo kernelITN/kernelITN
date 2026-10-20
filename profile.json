@@ -43,7 +43,7 @@
         "label": "Люблю Material Design"
       },
       {
-        "icon": "terminal",
+        "icon": "brand:archlinux",
         "label": "I use Arch"
       }
     ]
@@ -97,21 +97,21 @@
     "fork": "Fork"
   },
   "stats": {
-    "title": "GitHub activity",
-    "stars": "Stars earned",
-    "contributions": "Contributions this year",
-    "repos": "Public repos",
-    "followers": "Followers",
-    "calendar": "Last 21 days",
-    "weekdays": "SMTWTFS",
-    "languages": "Languages across my repositories",
-    "showLanguages": true
+    "title": "Активность на GitHub",
+    "stars": "Получено звёзд",
+    "contributions": "Вклад за год",
+    "repos": "Публичных репозиториев",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ПВСЧПСВ",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": false
   },
   "streak": {
-    "title": "Streak",
-    "current": "Current streak",
-    "longest": "Longest this year",
-    "days": "days"
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Лучшая за год",
+    "days": "дн."
   },
   "socials": {
     "items": [
@@ -128,13 +128,13 @@
     "items": [
       {
         "icon": "language",
-        "label": "My website",
+        "label": "Мой сайт",
         "url": "https://opencode.ai/",
         "style": "filled"
       },
       {
         "icon": "book_2",
-        "label": "All repositories",
+        "label": "Все репозитории",
         "url": "",
         "style": "tonal"
       }
