@@ -1,9 +1,9 @@
 {
   "version": 1,
   "login": "kernelITN",
-  "seed": "#4285F4",
-  "seedFromAvatar": true,
-  "scheme": "tonalSpot",
+  "seed": "#FF006E",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
   "motion": true,
   "iconFill": true,
   "order": [
