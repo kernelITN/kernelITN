@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Разрабатываю с ИИ: программы, приложения, браузеры",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -31,57 +31,61 @@
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "Electron · JavaScript · Python"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "Обо мне",
     "items": [
       {
-        "icon": "person",
-        "label": "Developer and designer"
+        "icon": "code",
+        "label": "Разрабатываю с ИИ"
       },
       {
-        "icon": "code",
-        "label": "Mostly frontend"
+        "icon": "terminal",
+        "label": "Программы и приложения"
+      },
+      {
+        "icon": "language",
+        "label": "Браузеры на Electron"
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Material Design"
       }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "Технологии",
     "groups": [
       {
-        "title": "Main",
+        "title": "Основное",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:javascript",
+            "label": "JavaScript"
           },
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:react",
+            "label": "Electron / React"
           }
         ]
       },
       {
-        "title": "Tools",
+        "title": "Инструменты",
         "items": [
           {
             "icon": "brand:git",
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:githubactions",
+            "label": "GitHub"
           },
           {
             "icon": "brand:githubactions",
@@ -92,8 +96,11 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "list",
+    "repos": [
+      "ghostfox-browser",
+      "RoxLauncher"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
