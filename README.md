@@ -8,6 +8,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Технологии"></picture>
 
+<a href="https://github.com/kernelITN/ghostfox-browser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ghostfox-browser-dark.svg"><img src="assets/project-ghostfox-browser-light.svg" width="49%" alt="ghostfox-browser"></picture></a>&nbsp;<a href="https://github.com/kernelITN/RoxLauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-roxlauncher-dark.svg"><img src="assets/project-roxlauncher-light.svg" width="49%" alt="RoxLauncher"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
