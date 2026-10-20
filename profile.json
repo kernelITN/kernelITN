@@ -96,12 +96,19 @@
     ]
   },
   "projects": {
-    "source": "list",
+    "source": "manual",
     "repos": [
       "ghostfox-browser",
       "RoxLauncher"
     ],
-    "overrides": {},
+    "overrides": {
+      "ghostfox-browser": {
+        "text": "Лёгкий чёрно-белый браузер на Electron"
+      },
+      "RoxLauncher": {
+        "text": "Лаунчер для Minecraft — в разработке"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
