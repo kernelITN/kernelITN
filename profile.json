@@ -39,20 +39,12 @@
     "title": "Обо мне",
     "items": [
       {
-        "icon": "code",
-        "label": "Разрабатываю с ИИ"
+        "icon": "palette",
+        "label": "Люблю Material Design"
       },
       {
         "icon": "terminal",
-        "label": "Программы и приложения"
-      },
-      {
-        "icon": "language",
-        "label": "Браузеры на Electron"
-      },
-      {
-        "icon": "palette",
-        "label": "Material Design"
+        "label": "I use Arch"
       }
     ]
   },
@@ -63,16 +55,12 @@
         "title": "Основное",
         "items": [
           {
-            "icon": "brand:javascript",
-            "label": "JavaScript"
-          },
-          {
             "icon": "brand:python",
             "label": "Python"
           },
           {
-            "icon": "brand:react",
-            "label": "Electron / React"
+            "icon": "brand:javascript",
+            "label": "JavaScript"
           }
         ]
       },
@@ -82,10 +70,6 @@
           {
             "icon": "brand:git",
             "label": "Git"
-          },
-          {
-            "icon": "brand:githubactions",
-            "label": "GitHub"
           },
           {
             "icon": "brand:githubactions",
