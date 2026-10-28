@@ -1,8 +1,8 @@
 {
- "key": "116650e9",
+ "key": "bdd8048e",
  "stars": 0,
- "contributions": 16,
- "repos": 5,
+ "contributions": 18,
+ "repos": 6,
  "followers": 0,
  "languages": [],
  "days": [
@@ -97,7 +97,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 28,
     "today": true
    },
@@ -107,11 +107,20 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 2
  },
  "pins": [],
  "all": [
+  {
+   "name": "yougram",
+   "url": "https://github.com/kernelITN/yougram",
+   "text": "взято из ТГК - @yougramclient",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
   {
    "name": "GhostMaterial-browser",
    "url": "https://github.com/kernelITN/GhostMaterial-browser",
