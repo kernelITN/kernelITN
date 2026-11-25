@@ -1,8 +1,8 @@
 {
- "key": "520661ac",
+ "key": "bba4a2f9",
  "stars": 0,
- "contributions": 18,
- "repos": 6,
+ "contributions": 21,
+ "repos": 7,
  "followers": 0,
  "languages": [],
  "days": [
@@ -97,7 +97,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 25,
     "today": true
    },
@@ -107,11 +107,25 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [],
  "all": [
+  {
+   "name": "GhostStar-browser",
+   "url": "https://github.com/kernelITN/GhostStar-browser",
+   "text": "The fast MD3E-styled GhostStar browser built on the Rust + Tauri + WebView2 stack using md3e-web. Lightweight open-source core with tabs, downloads, and customizable themes.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "md3e",
+    "rust",
+    "tauri-v2",
+    "webview2"
+   ]
+  },
   {
    "name": "yougram",
    "url": "https://github.com/kernelITN/yougram",
